@@ -93,16 +93,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- **Data Source:** [Link to the dataset or data source]
-- **Libraries Used:** List any libraries or tools that were particularly useful.
+- **Data Source:** kaggle.com
+- **Libraries Used:** numpy,pandas,matplotlib,seaborn
 
 ## Contact
 
 For questions or feedback, please reach out to:
 
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:**  nareshreddy624262@gmail.com
+- **GitHub:**  https://github.com/nareshreddy624262
 
 ---
-
-Make sure to replace placeholder texts like `your-username`, `your-email@example.com`, and `[Link to the dataset or data source]` with your actual information. This README file should help others understand your project and get started with the analysis.
